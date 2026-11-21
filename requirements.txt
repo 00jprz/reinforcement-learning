@@ -4,3 +4,4 @@ jupyterlab>=4,<5
 ipykernel>=6,<8
 matplotlib>=3.10,<4
 imageio-ffmpeg>=0.6,<1
+numpy>=2,<3
